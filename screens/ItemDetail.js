@@ -11,7 +11,7 @@ const ItemDetail = (props) => {
                 style={{ width: '100%', height: '100%' }}
                 source={iteminfo.image}
                 resizeMode='cover' />
-            <Text>ItemDetail Sayfası</Text>
+            <Text>ItemDetail Page</Text>
         </View>
     )
 }
